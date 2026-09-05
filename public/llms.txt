@@ -1,0 +1,12 @@
+# Wickra Verify
+
+> Hand over a (strategy, data, claimed report) triple and get a deterministic verdict — confirmed or refuted — that anyone can recompute in ten languages.
+
+Wickra Verify takes a strategy, its data and a claimed backtest report, recomputes the backtest, and returns a deterministic verdict: confirmed or refuted, with the difference where the two disagree. Whether the report matches and whether its hash matches are reported separately, so a mis-blessed claim is visible rather than masked. Released under the MIT OR Apache-2.0 license.
+
+## Source
+- [GitHub](https://github.com/wickra-lib/wickra-verify): Source, issues, and releases.
+
+## Ecosystem
+- [Wickra](https://wickra.org): The core streaming-indicator library the ecosystem is built on.
+- [Docs](https://docs.wickra.org): Documentation for the Wickra core.
