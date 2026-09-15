@@ -22,13 +22,4 @@ exclude = [
   'wickra\.org/\$(\{|%7B)path',
   'crates\.io/crates/',
   'www\.npmjs\.com/package/',
-  # wickra-verify is not published to any registry yet; these resolve once the
-  # first release lands. Excluded so the scheduled link check stays green until
-  # then. Remove on release.
-  'pypi\.org/project/wickra-verify',
-  'nuget\.org/packages/Wickra.Verify',
-  'central\.sonatype\.com/artifact/org\.wickra/wickra-verify',
-  'pkg\.go\.dev/github\.com/wickra-lib/wickra-verify-go',
-  'docs\.rs/wickra-verify',
-  'wickra-lib\.r-universe\.dev',
 ]
