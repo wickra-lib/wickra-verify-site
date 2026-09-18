@@ -9,7 +9,7 @@ because verification recomputes rather than trusting the supplied numbers.
 <dependency>
   <groupId>org.wickra</groupId>
   <artifactId>wickra-verify</artifactId>
-  <version>0.1.2</version>
+  <version>0.1.3</version>
 </dependency>
 ```
 
