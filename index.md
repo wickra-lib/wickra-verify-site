@@ -30,7 +30,7 @@ features:
     details: "A report can match while its hash does not, and the other way round. Both are reported separately, so a mis-blessed claim is visible rather than masked."
   - icon: ⚙️
     title: "Built on the core"
-    details: "The same deterministic engine and the same 514 indicators as the rest of the stack, so a verdict is not a second opinion from a second implementation."
+    details: "The same deterministic engine and the same 495 indicators as the rest of the stack, so a verdict is not a second opinion from a second implementation."
 ---
 
 <script setup>
